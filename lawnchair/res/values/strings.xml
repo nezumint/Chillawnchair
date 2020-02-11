@@ -376,7 +376,7 @@
     <string name="action_none">Do Nothing</string>
     <string name="action_sleep">Sleep</string>
     <string name="action_sleep_timeout">Sleep Using Screen Timeout</string>
-    <string name="action_open_settings">Open Lawnchair Settings</string>
+    <string name="action_open_settings">Open Chillawnchair Settings</string>
     <string name="action_open_notifications">Open Notification Panel</string>
     <string name="action_overlay">Open Google Feed</string>
     <string name="action_despacito">Play “YouTube Rewind 2018” (Distorted)</string>
@@ -403,7 +403,7 @@
     <string name="name">Name</string>
 
     <string name="backup_location">Location</string>
-    <string name="backup_location_device_storage">“Lawnchair” Folder</string>
+    <string name="backup_location_device_storage">“Chillawnchair” Folder</string>
     <string name="custom">Custom</string>
 
     <!-- Section 11 -->
@@ -462,7 +462,7 @@
     <string name="suggested_action_content_description">“%1$s” opens in “%2$s”.</string>
 
     <string name="smartspace_setup_text">Tap to Set Up</string>
-    <string name="lawnchair_settings">Lawnchair Settings</string>
+    <string name="lawnchair_settings">Chillawnchair Settings</string>
 
     <string name="label_voice_search">Voice Search</string>
     <string name="icon_pack">Icon Pack</string>
@@ -473,7 +473,7 @@
     <string name="title_disable_suggestions_prompt">Disable App Suggestions</string>
     <string name="msg_disable_suggestions_prompt">"Usage data will be deleted."</string>
 
-    <string name="app_name_lawnchair">Lawnchair</string>
+    <string name="app_name_lawnchair">Chillawnchair</string>
     <string name="pixel_style_pref_title">Google Pixel</string>
 
     <string name="label_turn_off_suggestions">Disable</string>
@@ -507,7 +507,7 @@
     <string name="restore_success">Backup restored.</string>
     <string name="failed">Something went wrong.</string>
 
-    <string name="backup_share_text">Lawnchair Backup</string>
+    <string name="backup_share_text">Chillawnchair Backup</string>
 
     <string name="developer_options_enabled">Developer Options enabled.</string>
     <string name="restart_lawnchair_pref_summary">Reapply settings.</string>
@@ -720,7 +720,7 @@
 
     <string name="weather_provider_accu" translatable="false">AccuWeather</string>
 
-    <string name="lawnchair_bug_report">Lawnchair Bug Report</string>
+    <string name="lawnchair_bug_report">Chillawnchair Bug Report</string>
     <string name="action_dogbin_upload">Upload to Dogbin</string>
 
     <string name="action_dogbin_copy_link">Copy Link</string>
